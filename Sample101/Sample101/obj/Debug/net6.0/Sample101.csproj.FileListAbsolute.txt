@@ -1,0 +1,15 @@
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\bin\Debug\net6.0\Sample101.exe
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\bin\Debug\net6.0\Sample101.deps.json
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\bin\Debug\net6.0\Sample101.runtimeconfig.json
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\bin\Debug\net6.0\Sample101.dll
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\bin\Debug\net6.0\Sample101.pdb
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.csproj.AssemblyReference.cache
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.AssemblyInfoInputs.cache
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.AssemblyInfo.cs
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.csproj.CoreCompileInputs.cache
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.dll
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\refint\Sample101.dll
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.pdb
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\Sample101.genruntimeconfig.cache
+D:\work\prg\cs\oneWeekCS\Sample101\Sample101\Sample101\obj\Debug\net6.0\ref\Sample101.dll
